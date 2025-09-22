@@ -888,6 +888,308 @@ PP	15   (máx. 24)
 Faz contato?	Não
 Introduzido	Geração 1`)
 break
+case"Quick Attack":
+alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	40
+Precisão	100
+PP	30   (máx. 48)
+Prioridade	+1
+Faz contato?	Sim
+Introduzido	Geração 1`)
+break
+case"Rage":
+alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	20
+Precisão	100
+PP	20   (máx. 32)
+Faz contato?	Sim
+Introduzido	Geração 1`)
+break
+case"Razor Leaf":
+alert(`Tipo	Grama
+Categoria	Físico  Físico
+Poder	55
+Precisão	95
+PP	25   (máx. 40)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Razor Wind":
+alert(`
+Tipo	Normal
+Categoria	Especial  Especial
+Poder	80
+Precisão	100
+PP	10   (máx. 16)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Recover":
+alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	5   (máx. 8)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Reflect":
+alert(`Tipo	Psíquico
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Rest":
+alert(`Tipo	Psíquico
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	5   (máx. 8)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Roar":
+alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	20   (máx. 32)
+Prioridade	-6
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Rock Slide":
+alert(`Tipo	Pedra
+Categoria	Físico  Físico
+Poder	75
+Precisão	90
+PP	10   (máx. 16)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Rock Throw":
+alert(`Tipo	Pedra
+Categoria	Físico  Físico
+Poder	50
+Precisão	90
+PP	15   (máx. 24)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Rolling Kick":
+alert(`Tipo	Combate
+Categoria	Físico  Físico
+Poder	60
+Precisão	85
+PP	15   (máx. 24)
+Faz contato?	Sim
+Introduzido	Geração 1`)
+break
+case"Sand Attack":
+alert(`
+Tipo	Chão
+Categoria	Status  Status
+Poder	—
+Precisão	100
+PP	15   (máx. 24)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Scratch":
+alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	40
+Precisão	100
+PP	35   (máx. 56)
+Faz contato?	Sim
+Introduzido	Geração 1`)
+break
+case"Screech":
+alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	85
+PP	40   (máx. 64)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Seismic Toss":
+alert(`Tipo	Combate
+Categoria	Físico  Físico
+Poder	—
+Precisão	100
+PP	20   (máx. 32)
+Faz contato?	Sim
+Introduzido	Geração 1`)
+break
+case"Self-Destruct":
+alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	200
+Precisão	100
+PP	5   (máx. 8)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Sharpen":
+alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	30   (máx. 48)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Sing":
+alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	55
+PP	15   (máx. 24)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Skull Bash":
+alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	130
+Precisão	100
+PP	10   (máx. 16)
+Faz contato?	Sim
+Introduzido	Geração 1`)
+break
+case"Sky Attack":
+alert(`Tipo	Vôo
+Categoria	Físico  Físico
+Poder	140
+Precisão	90
+PP	5   (máx. 8)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Slam":
+alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	80
+Precisão	75
+PP	20   (máx. 32)
+Faz contato?	Sim
+Introduzido	Geração 1`)
+break
+case"Slash":
+alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	70
+Precisão	100
+PP	20   (máx. 32)
+Faz contato?	Sim
+Introduzido	Geração 1`)
+break
+case"Sleep Powder":
+alert(`Tipo	Grama
+Categoria	Status  Status
+Poder	—
+Precisão	75
+PP	15   (máx. 24)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Sludge":
+alert(`Tipo	Tóxico
+Categoria	Especial  Especial
+Poder	65
+Precisão	100
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Smog":
+alert(`Tipo	Tóxico
+Categoria	Especial  Especial
+Poder	30
+Precisão	70
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Smokescreen":
+alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	100
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Soft-Boiled":
+alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	5   (máx. 8)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Solar Beam":
+alert(`Tipo	Grama
+Categoria	Especial  Especial
+Poder	120
+Precisão	100
+PP	10   (máx. 16)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Sonic Boom":
+alert(`Tipo	Normal
+Categoria	Especial  Especial
+Poder	—
+Precisão	90
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)
+break
+case"Spike Cannon":
+alert(Tipo	Normal
+Categoria	Físico  Físico
+Poder	20
+Precisão	100
+PP	15   (máx. 24)
+Faz contato?	Não
+Introduzido	Geração 1)          
+break
+case"Splash":
+alert(Mover dados
+Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	40   (máx. 64)
+Faz contato?	Não
+Introduzido	Geração 1 )         
+break
+case"":
+break
+case"":
+break
+case"":
+break
+case"":
+break
+case"":
+break
+case"":
+break
+case"":
+break
+case"":
+break
+case"":
+break
 case"":
 break
 case"":
@@ -909,3 +1211,12 @@ break
 case"":
 break
 case"":
+break
+case"":
+
+
+
+
+
+    
+}
