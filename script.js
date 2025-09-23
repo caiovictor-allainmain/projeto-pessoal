@@ -1229,37 +1229,116 @@ PP	30   (máx. 48)
 Faz contato?	Não
 Introduzido	Geração 1`)
 break
-case"":
+case"Submission":
+alert(`Tipo	Combate
+Categoria	Físico  Físico
+Poder	80
+Precisão	80
+PP	20   (máx. 32)
+Faz contato?	Sim
+Introduzido	Geração 1`)          
 break
-case"":
+case"Substitute":
+alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	10   (máx. 16)
+Faz contato?	Não
+Introduzido	Geração 1`)          
 break
-case"":
+case"Super Fang":
+alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	—
+Precisão	90
+PP	10   (máx. 16)
+Faz contato?	Sim
+Introduzido	Geração 1`)          
 break
-case"":
+case"Supersonic":
+alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	55
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)          
 break
-case"":
+case"Supersonic":
+alert(`
+Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	55
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)          
 break
-case"":
+case"Surf":
+alert(`Tipo	Água
+Categoria	Especial  Especial
+Poder	90
+Precisão	100
+PP	15   (máx. 24)
+Faz contato?	Não
+Introduzido	Geração 1`)          
 break
-case"":
+case"Swift":
+aletr(`Tipo	Normal
+Categoria	Especial  Especial
+Poder	60
+Precisão	∞
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)          
 break
-case"":
+case"Swords Dance":
 break
-case"":
+case"Tackle":
 break
-case"":
+case"Tail Whip ":
 break
-case"":
+case"Take Down":
 break
-case"":
+case"Teleport":
 break
-case"":
+case"Thrash":
 break
-case"":
-
-
-
-
-
-    
+case"Thunder":
+break
+case"Thunder Punch ":
+break
+case"Thunder Shock":
+break
+case"Thunder Wave":
+break
+case"Thunderbolt ":
+break
+case"Thunder Punch":
+break
+case"Toxic":
+break
+case"Transform":
+break
+case"Tri Attack":
+break
+case"Twineedle":
+break
+case"Vine Whip":
+break
+case"Vise Grip":
+break
+case"Water Gun":
+break
+case"Waterfall":
+break
+case"Whirlwind":
+break
+case"Wing Attack ":
+break
+case"Withdraw":
+break
+case"Wrap":
+break
 }
