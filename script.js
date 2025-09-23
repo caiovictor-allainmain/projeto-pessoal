@@ -1154,37 +1154,80 @@ Faz contato?	Não
 Introduzido	Geração 1`)
 break
 case"Spike Cannon":
-alert(Tipo	Normal
+alert(`Tipo	Normal
 Categoria	Físico  Físico
 Poder	20
 Precisão	100
 PP	15   (máx. 24)
 Faz contato?	Não
-Introduzido	Geração 1)          
+Introduzido	Geração 1`)          
 break
 case"Splash":
-alert(Mover dados
+alert(`Mover dados
 Tipo	Normal
 Categoria	Status  Status
 Poder	—
 Precisão	—
 PP	40   (máx. 64)
 Faz contato?	Não
-Introduzido	Geração 1 )         
+Introduzido	Geração 1 `)         
 break
-case"":
+case"Spore":
+alert(`Tipo	Grama
+Categoria	Status  Status
+Poder	—
+Precisão	100
+PP	15   (máx. 24)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
-case"":
+case"Stomp":
+alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	65
+Precisão	100
+PP	20   (máx. 32)
+Faz contato?	Sim
+Introduzido	Geração 1`)          
 break
-case"":
+case"Strength":
+alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	80
+Precisão	100
+PP	15   (máx. 24)
+Faz contato?	Sim
+Introduzido	Geração 1`)          
 break
-case"":
+case"String Shot":
+alert(`Tipo	Erro
+Categoria	Status  Status
+Poder	—
+Precisão	95
+PP	40   (máx. 64)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
-case"":
+case"Struggle":
+alert(`
+Tipo	Normal
+Categoria	Físico  Físico
+Poder	50
+Precisão	—
+PP	—
+Faz contato?	Sim
+Introduzido	Geração 1`)
 break
-case"":
+case"Stun Spore":
 break
-case"":
+case"Stun Spore":
+alert(`Tipo	Grama
+Categoria	Status  Status
+Poder	—
+Precisão	75
+PP	30   (máx. 48)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"":
 break
